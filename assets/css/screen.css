@@ -2290,6 +2290,27 @@ Usage (In Ghost editor):
 
 /* Anna overrides */
 
+body {
+    background-color: #ffffff;
+}
+
+.site-header {
+    background-color: #ffffff;
+    color: rgb(0, 45, 93)
+}
+
 .site-header:before {
     background: none;
+}
+
+.nav li a {
+    color: rgb(192, 27, 33)
+}
+
+.social-link svg {
+    fill: rgb(192, 27, 33)
+}
+
+.rss-button svg {
+    fill: rgb(192, 27, 33)
 }
