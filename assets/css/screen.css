@@ -2287,3 +2287,9 @@ Usage (In Ghost editor):
         margin-left: 0;
     }
 }
+
+/* Anna overrides */
+
+.site-header:before {
+    background: none;
+}
